@@ -169,15 +169,7 @@ These are set inside **Step 6** and can be changed before running:
 - A trained RVC model: `.pth` + `.index` file (see [voice-models.com](https://voice-models.com))
 - A source audio file (`.wav` recommended, `.mp3` / `.ogg` also work)
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-RVC is developed by the open-source community. Model files obtained from [voice-models.com](https://voice-models.com) are subject to their respective individual licenses.
-
----
 
 <div align="center">
 
