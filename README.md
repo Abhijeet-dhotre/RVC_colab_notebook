@@ -169,10 +169,3 @@ These are set inside **Step 6** and can be changed before running:
 - A trained RVC model: `.pth` + `.index` file (see [voice-models.com](https://voice-models.com))
 - A source audio file (`.wav` recommended, `.mp3` / `.ogg` also work)
 
-
-
-<div align="center">
-
-Made with ❤️ for the RVC community
-
-</div>
